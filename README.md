@@ -16,6 +16,9 @@ A professional, browser-based **3D action game** developed with **Three.js** and
 
 ---
 
+LIVE DEMO
+https://shoaib-three-js-game.netlify.app
+
 ## 🛠️ Built With
 
 * **JavaScript (ES6+)**
